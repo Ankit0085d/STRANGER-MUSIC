@@ -17,7 +17,7 @@ from SHUKLAMUSIC.utils.formatters import time_to_seconds
 import aiohttp
 from SHUKLAMUSIC import LOGGER
 
-API_URL = "https://shrutibots.site"
+API_URL = "ShrutiBots2QTUka7FQV31Aland1Xs"
 DOWNLOAD_DIR = "downloads"
 
 
