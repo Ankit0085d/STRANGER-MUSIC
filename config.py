@@ -26,10 +26,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
-BOT_NAME = getenv("BOT_NAME", "SAPNA")
-ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Sexstake")
+BOT_USERNAME = getenv("BOT_USERNAME", "shreyus_music_bot")
+BOT_NAME = getenv("BOT_NAME", "shreyus")
+ASSUSERNAME = getenv("ASSUSERNAME", "")
 
 # MongoDB
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
