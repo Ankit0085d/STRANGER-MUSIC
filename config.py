@@ -110,9 +110,9 @@ SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/aesldg.jpg"
 SHASHANK_IMG = [
     "https://files.catbox.moe/ut9gjq.jpg",
     "https://files.catbox.moe/29u5kz.jpg",
-    "https://files.catbox.moe/lsbotb.jpg",
-    "https://files.catbox.moe/huuy1f.jpg",
-    "https://files.catbox.moe/7vfivr.jpg",
+    "https://files.catbox.moe/yn11hf.jpg",
+    "https://files.catbox.moe/6borug.jpg",
+    "https://files.catbox.moe/v78vpg.jpg",
     "https://files.catbox.moe/dqtuv2.jpg",
     "https://files.catbox.moe/ac3tzn.jpg"
 ]
