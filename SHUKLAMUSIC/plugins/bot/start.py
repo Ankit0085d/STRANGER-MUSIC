@@ -128,7 +128,6 @@ async def start_gp(client, message: Message, _):
         random.choice(SHASHANK_IMG),
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
-    ,
     )
     return await add_served_chat(message.chat.id)
 
